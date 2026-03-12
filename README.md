@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 
 ```
@@ -11,7 +9,7 @@
 ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-# Jonah Paige
+## Hi there 👋 I'm Jonah Paige
 
 **MSc Analytics & AI · ESMT Berlin**
 
